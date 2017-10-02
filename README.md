@@ -1,3 +1,4 @@
+Version: 1.0
 # Hi, this is the first commit.
 
 # This is the first feature, yeah!

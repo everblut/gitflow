@@ -1,8 +1,1 @@
-Version: 1.0
-# Hi, this is the first commit.
-
-# This is the first feature, yeah!
-
-# This is the second feature, way to go!
-!
-# This is the third feature!
+This repository has a document named third_document
